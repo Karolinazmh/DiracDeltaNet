@@ -1,4 +1,4 @@
-# DiracNet
+# DiracDeltaNet
 
 Source code and pre-trained model will be upload soon. Stay tuned!
 
